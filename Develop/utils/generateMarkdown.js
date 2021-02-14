@@ -13,15 +13,20 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
 
+
   ## Installation
+  Here are the steps to get the application up and running: 
   ${data.installation}
 
   ## Usage
   ${data.usage}
+  <br/>
+  ![screenshot](${data.screenshot})
 
   ## License 
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
-  This project 
+  This application is under the ${data.license} license. 
+
   ## Contributers 
   ${data.credits}
 
@@ -29,7 +34,6 @@ function generateMarkdown(data) {
   Find me on GitHub: [${data.username}](https://github.com/${data.username})<br/>
   Send an email: ${data.email}
   
-
 `;
 }
 
