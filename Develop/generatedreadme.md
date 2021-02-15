@@ -17,13 +17,13 @@
   To use this project clone the repo and make sure you have the inquirer npm installed as well.
 
   ## Usage
-  Once you have everything installed, in your terminal, make sure you are in the correct folder and type in ‘index.js’ to begin and start filling out all the prompts given. After all the questions 
+  Once you have everything installed, in your terminal, make sure you are in the correct folder and type in ‘index.js’ to begin and start filling out all the prompts given. After all the questions are answered, it will generate a readme.md file with the user’s inputs. 
   
   ### Screenshot
   The following image is a screenshot of the how the application should once finished:
   <br/>
   <br/>
-  ![screenshot](https://user-images.githubusercontent.com/74436613/107894545-d203df00-6ee4-11eb-9cd3-c6286f1e0b2c.png)
+  ![screenshot](https://user-images.githubusercontent.com/74436613/107901744-4cd6f500-6ef9-11eb-849e-9383496a65ff.png)
 
   ## License 
   ![badge](https://img.shields.io/badge/license-Unlicense-brightgreen)
