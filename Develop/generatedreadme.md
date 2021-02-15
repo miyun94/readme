@@ -1,5 +1,5 @@
 
-  # dalfjawe
+  # ladkfaw
   
   ## Table of contents
 - [Description](#Description)
@@ -9,22 +9,26 @@
 - [Contributors](#Contributors)
 
   ## Description
-  asdkfjla
+  asldfkjal
+
 
   ## Installation
-  aksdlfa
+  Here are the steps to get the application up and running: 
+  askdflajwe
 
   ## Usage
-  egklsfa
+  dklafwlgsdfa
 
   ## License 
-  ![badge](https://img.shields.io/badge/license-unlicense-brightgreen)
-  
+  ![badge](https://img.shields.io/badge/license-Modzilla-brightgreen)
+  This application is under the Modzilla license. 
+
   ## Contributers 
-  klefa
+  [coding-boot-camp](https://github.com/coding-boot-camp)
+
+  For any future contributions, please contact the following person below. 
 
   ## Further Questions?
-  Find me on GitHub: [lakdflaw](https://github.com/lakdflaw)<br/>
-  Send an email: sdklfa
+  Find me on GitHub: [miyun94](https://github.com/miyun94)<br/>
+  Send an email: asldfj2gmaskldf
   
-

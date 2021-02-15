@@ -1,4 +1,4 @@
-// TODO: Include packages needed for this application
+// TODO: Include packages needed for this apnplication
 const fs = require('fs')
 const inquirer = require('inquirer')
 const generateMarkdown = require('./utils/generateMarkdown')
@@ -33,13 +33,13 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'Who worked on this project? Provide github links if applicable'
+        message: 'Provide the github usernames of those who contributed to this project'
     },
     {
         type: 'list',
         name: 'license', 
         message: 'Which license would you like to use?',
-        choices: ['Modzilla', 'Apache', 'mit', 'unlicense']
+        choices: ['Modzilla', 'Apache', 'MIT', 'Unlicense']
     },
     {
         type: 'input',

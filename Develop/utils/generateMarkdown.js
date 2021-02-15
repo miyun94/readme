@@ -28,7 +28,9 @@ function generateMarkdown(data) {
   This application is under the ${data.license} license. 
 
   ## Contributers 
-  ${data.credits}
+  [${data.credits}](https://github.com/${data.credits})
+
+  For any future contributions, please contact the following person below. 
 
   ## Further Questions?
   Find me on GitHub: [${data.username}](https://github.com/${data.username})<br/>
