@@ -20,14 +20,19 @@ function generateMarkdown(data) {
 
   ## Usage
   ${data.usage}
+  
+  ### Screenshot
+  The following image is a screenshot of the how the application should once finished:
+  <br/>
   <br/>
   ![screenshot](${data.screenshot})
 
   ## License 
   ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
+  <br/>
   This application is under the ${data.license} license. 
 
-  ## Contributers 
+  ## Contributors 
   [${data.credits}](https://github.com/${data.credits})
 
   For any future contributions, please contact the following person below. 

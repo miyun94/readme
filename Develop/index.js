@@ -23,7 +23,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message: 'Provide instructions and/or examples of how your project is used!'
+        message: 'Provide instructions on how your project is used!'
     },
     {
         type: 'input',
@@ -33,7 +33,7 @@ const questions = [
     {
         type: 'input',
         name: 'credits',
-        message: 'Provide the github usernames of those who contributed to this project'
+        message: 'Provide the github usernames of those who contributed to this project:'
     },
     {
         type: 'list',
@@ -44,7 +44,7 @@ const questions = [
     {
         type: 'input',
         name: 'username',
-        message: 'Provide your github username'
+        message: 'Provide your github username:'
     },
     {
         type: 'input',
