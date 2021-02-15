@@ -14,6 +14,7 @@ Here is a link to a video showing how the application runs: https://www.youtube.
 
 ### Screenshot
 ![Screenshot](https://user-images.githubusercontent.com/74436613/107894545-d203df00-6ee4-11eb-9cd3-c6286f1e0b2c.png)
+Here is a link to the actual generated readme : https://github.com/miyun94/readme/blob/master/Develop/generatedreadme.md
 
 ## Contributers 
 https://github.com/coding-boot-camp
