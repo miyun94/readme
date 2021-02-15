@@ -1,4 +1,4 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
 ## Description 
 As a developer, it is important to have a solid readme file that overviews the project. It allows the users to see what the application is used for, how to use it, and the other finer details such as the contributors and those to contact. This readme generator allows the user to easily generate a quality readme just by going through and answering each prompt. It skips the hassle of setting up each individual readme over and over again. 
